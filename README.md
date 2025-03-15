@@ -1,4 +1,7 @@
 # assignment-AI-Developer-Exercise
+API KEY FOR YOUR USE:
+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
+
 Summary of Verbal Communication Skills Trainer
 This project is a CLI-based Verbal Communication Skills Trainer that utilizes the OpenRouter API to help users enhance their speaking abilities through AI-driven interactions. It provides real-time conversation practice, voice input processing, structured skill-building exercises, and automated presentation evaluations.
 
