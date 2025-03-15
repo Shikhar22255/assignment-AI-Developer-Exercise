@@ -11,16 +11,21 @@ API Communication: requests library for making API calls.
 Error Handling & Logging: Built-in retry mechanisms for API failures and handling unexpected errors.
 Data Storage: User progress and responses are stored in a JSON file.
 Core Features
+
+
 AI Chat Interaction: Users can engage in text-based conversations with AI to practice verbal communication.
 Voice Input Processing: Converts spoken words into text using speech_recognition.
 Text-to-Speech Output: AI responses can be played as audio output using gTTS and pydub.
+
 Training Modules:
 Impromptu Speaking: AI evaluates user responses to random speaking topics.
 Storytelling: AI analyzes narrative structure and vocabulary usage.
 Conflict Resolution: AI helps users improve diplomatic and assertive communication.
+
 Presentation Feedback System:
 Evaluates speech structure, clarity, tone, and engagement.
 Provides scores and improvement suggestions.
+
 Error Handling & API Retry Logic:
 If the API request fails, the system retries with exponential backoff.
 User-friendly messages handle unexpected failures.
